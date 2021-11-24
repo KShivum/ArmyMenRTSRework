@@ -1,0 +1,22 @@
+\FCourier New
+\S80
+FAX
+\V-1
+\M40
+\S10
+\DN
+Please fax this form to: ^525
+(No Cover Sheet Required)
+
+
+\DY
+Or mail to:
+	^519
+	^520
+	^521
+	^522
+	^523
+
+\S12
+\DN
+^[RegBody.txt]

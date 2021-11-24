@@ -1,0 +1,19 @@
+\FCourier New
+\S70
+RECORD
+\V-1
+\M40
+\S10
+\DN
+
+\DY
+This registration is from:
+	^519
+	^520
+	^521
+	^522
+	^523
+
+\S12
+\DN
+^[RegBody.txt]

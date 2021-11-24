@@ -1,0 +1,67 @@
+\M0
+===========================================================================
+\R70
+Product Name/Platform: ^507/^511	Date: ^454/^455/^456
+Platform Code: ^204, Code: ^502, Card ID: ^509, Version: ^513, Number: ^453
+---------------------------------------------------------------------------
+\R23\L26
+\S10
+	Salutation-01:	^13
+	First Name   :	^14   Initial: ^15   Last Name: ^16
+	Street   :	^20   Apartment: ^21
+	City   :	^23   State: ^24   Zip: ^25
+	Country   :	^26
+	E-Mail Address:	^31
+	Telephone Number-02:	^28
+	Where Purchased-03:	^37
+	System Platform:	^630	
+	Types of Games:	^631
+	Types of Games Other:	^632
+	How Hear About:	^633
+	How Hear About Other:	^634
+	Magazines:	^635
+	Online Service:	^636
+	Number of Games Purchased:	^637
+	Game Brand Name	^639
+	Date of Birth-09:	^600
+	Maritial Status-10:	^601
+	Children-11:	^602
+	Other 1, Gender   :	^603, Age: ^604
+	Other 2, Gender   :	^605, Age: ^606
+	Other 3, Gender   :	^607, Age: ^608
+	Other 4, Gender   :	^609, Age: ^610
+	Family Income-14:	^615
+	Education:	^616
+	Credit Cards Used-16:	^617
+	Do In 6 Months-18:	^619
+	Do In 12 Months:	^620
+	Household-19:	^625
+	Interests-20:	^621
+	Important Interests-21:	1 - ^622, 2 - ^623, 3 - ^624
+	Receive Mailings:	^626
+	E-Mail Offers:	^627
+	Over 18:	^638
+---------------------------------------------------------------------------
+	Have:	^90 (^91), ^92 (^93), ^94 ^95, ^96
+===========================================================================
+\R23\L25\L35
+	Platform (Code):	^204 (^203)
+	Processor (Code):	^207 (^208)
+	Processor Speed:	^209
+	Co-Processor (Code):	^210 (^211)
+	Physical Memory:	^212
+	Disk Space-Total	^213
+	Disk Space-Free:	^214
+	Fixed Disk Space-Total:	^215
+	Fixed Disk Space-Free:	^216	
+	Addressing Mode:	^217
+	OS Version:	^221	
+	DOS Version:	^222
+	Monitor:	^230
+	Video Card Model:	^229
+	Pixel Size Cur (Max):	^231 (^232)
+	Color Depth Cur (Max):	^233 (^234)
+	Printer Name:	^235
+	Have (Autodetected):	^238
+
+

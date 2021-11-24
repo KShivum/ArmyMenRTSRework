@@ -1,0 +1,23 @@
+\FCourier New
+\S80
+MAIL
+\V-1
+\M40
+\S10
+\DN
+
+(No Cover Sheet Required)
+
+
+\DY
+Please mail to:
+	^519
+	^520
+	^521
+	^522
+	^523
+
+
+\S12
+\DN
+^[RegBody.txt]
